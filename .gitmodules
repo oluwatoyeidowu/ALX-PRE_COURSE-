@@ -1,0 +1,9 @@
+[submodule "data-science"]
+	path = data-science
+	url = https://github.com/Sanctus-Peter/data-science.git
+[submodule "computer-science"]
+	path = computer-science
+	url = https://github.com/Sanctus-Peter/computer-science.git
+[submodule "100-days-of-code-1"]
+	path = 100-days-of-code-1
+	url = https://github.com/Sanctus-Peter/100-days-of-code-1.git
